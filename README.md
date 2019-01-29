@@ -2,6 +2,9 @@
 
 > This is Vuetube
 
+- HTML/CSS
+- Vue
+
 ## Build Setup
 
 ``` bash
